@@ -56,7 +56,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.comhttps://github.com/prabhasha2006/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94714790066'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
